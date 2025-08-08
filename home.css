@@ -14,7 +14,7 @@ h1 {
 
 
 header {
-    background-image: url("raw.githubusercontent.com/shiokonbuzushi/PomYuzu.io/refs/heads/main/miga.jpg");
+    background-image: url("https://github.com/shiokonbuzushi/PomYuzu.io/blob/main/miga.jpg?raw=true");
     height: 100vh;
     /* Full viewport height */
     width: 100%;
